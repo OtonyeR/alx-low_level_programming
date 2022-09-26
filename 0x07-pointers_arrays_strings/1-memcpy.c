@@ -1,4 +1,3 @@
-table File  17 lines (15 sloc)  322 Bytes
 #include "main.h"
 /**
  * _memcpy - copies memory area,
