@@ -66,4 +66,4 @@ char **strtow(char *str)
 				k++;
 				c = 0;
 			}
-
+		}}}
